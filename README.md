@@ -25,27 +25,6 @@
 
 | Student      | Teacher |
 | ------------ | ------- |
-| David        | Don     |
-| Micah        | Bryce   |
-| Francine     | Emily   |
-| Fetuolemoana | Chris   |
-| Jenny        | Don     |
-| Riki         | Bryce   |
-| Ari          | Emily   |
-| Evandah      | Chris   |
-| Jess         | Don     |
-| Grant        | Bryce   |
-| Ben          | Emily   |
-| Aubrey       | Chris   |
-| Rebecca      | Don     |
-| Jason        | Bryce   |
-| Lane         | Emily   |
-| Ngapeita     | Chris   |
-
-## Week 6
-
-| Student      | Teacher |
-| ------------ | ------- |
 | David        | Bryce   |
 | Micah        | Emily   |
 | Francine     | Chris   |
@@ -63,7 +42,7 @@
 | Lane         | Chris   |
 | Ngapeita     | Don     |
 
-## Week 7
+## Week 6
 
 | Student      | Teacher |
 | ------------ | ------- |
@@ -84,7 +63,7 @@
 | Lane         | Don     |
 | Ngapeita     | Bryce   |
 
-## Week 8
+## Week 7
 
 | Student      | Teacher |
 | ------------ | ------- |
@@ -104,3 +83,24 @@
 | Jason        | Don     |
 | Lane         | Bryce   |
 | Ngapeita     | Emily   |
+
+## Week 8
+
+| Student      | Teacher |
+| ------------ | ------- |
+| David        | Don     |
+| Micah        | Bryce   |
+| Francine     | Emily   |
+| Fetuolemoana | Chris   |
+| Jenny        | Don     |
+| Riki         | Bryce   |
+| Ari          | Emily   |
+| Evandah      | Chris   |
+| Jess         | Don     |
+| Grant        | Bryce   |
+| Ben          | Emily   |
+| Aubrey       | Chris   |
+| Rebecca      | Don     |
+| Jason        | Bryce   |
+| Lane         | Emily   |
+| Ngapeita     | Chris   |
