@@ -1,26 +1,5 @@
 # Tech-Ins
 
-## Week 4
-
-| Student      | Teacher |
-| ------------ | ------- |
-| David        | Don     |
-| Micah        | Bryce   |
-| Francine     | Emily   |
-| Fetuolemoana | Chris   |
-| Jenny        | Don     |
-| Riki         | Bryce   |
-| Ari          | Emily   |
-| Evandah      | Chris   |
-| Jess         | Don     |
-| Grant        | Bryce   |
-| Ben          | Emily   |
-| Aubrey       | Chris   |
-| Rebecca      | Don     |
-| Jason        | Bryce   |
-| Lane         | Emily   |
-| Ngapeita     | Chris   |
-
 ## Week 5
 
 | Student      | Teacher |
